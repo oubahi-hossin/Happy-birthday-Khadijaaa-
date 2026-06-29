@@ -100,7 +100,7 @@ const BirthdayPage = () => {
               transition={{ type: 'spring', stiffness: 200 }}
             >
               <img
-                  src="/khadija.png"
+                  src="./khadija.png"
                   alt="خديجة"
                   style={{ width: '100%', height: '100%', objectFit: 'cover', objectPosition: 'center 15%' }}
                 />

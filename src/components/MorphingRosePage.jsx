@@ -86,7 +86,7 @@ const MorphingRosePage = () => {
               {/* The single rose image */}
               <motion.div className="bloom-rose-circle">
                 <img
-                  src="/morphing-rose.png"
+                  src="./morphing-rose.png"
                   alt="وردة رومانسية"
                   className="bloom-rose-img"
                 />
@@ -155,7 +155,7 @@ const MorphingRosePage = () => {
                   }}
                 >
                   <img
-                    src="/rose-frame.png"
+                    src="./rose-frame.png"
                     alt="إطار ورد"
                     className="rose-wreath-img"
                   />
@@ -196,7 +196,7 @@ const MorphingRosePage = () => {
                   transition={{ delay: 0.8, duration: 1.2, ease: 'easeOut' }}
                 >
                   <img
-                    src="/khadija.png"
+                    src="./khadija.png"
                     alt="خديجة"
                     className="khadija-photo-img"
                   />

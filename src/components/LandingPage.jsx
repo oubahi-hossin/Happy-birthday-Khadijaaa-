@@ -62,7 +62,7 @@ const LandingPage = ({ onReveal }) => {
 
         {/* Main Bouquet Image */}
         <motion.img
-          src="/bouquet.png"
+          src="./bouquet.png"
           alt="باقة ورد رومانسية"
           className="bouquet-image"
           initial={{ scale: 0.6, filter: 'blur(15px) brightness(0.3)' }}
